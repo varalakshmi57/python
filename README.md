@@ -2,5 +2,11 @@
 a=20
 b=30
 c=a+b
-print(c);
+print(c)
+
+#sub
+a=20;
+b=30;
+c=b-a;
+print(c)
 
